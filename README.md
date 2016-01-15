@@ -3,7 +3,7 @@
 for Node
 
 ```sh
-npm install curry.js
+$ npm install curry.js
 ```
 
 for Browser
