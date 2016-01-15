@@ -1,6 +1,6 @@
 {
   "name": "curry.js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "javascript function currying",
   "main": "index.js",
   "scripts": {
