@@ -1,3 +1,17 @@
+### Installation
+
+for Node
+
+```
+npm install curry.js
+```
+
+for Browser
+
+```html
+<script type="text/javascript" src="path/to/curry.js"></script
+```
+
 ### Example
 
 ```js
