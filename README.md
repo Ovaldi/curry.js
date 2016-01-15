@@ -2,7 +2,7 @@
 
 for Node
 
-```
+```sh
 npm install curry.js
 ```
 
