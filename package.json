@@ -1,0 +1,24 @@
+{
+  "name": "curry.js",
+  "version": "0.0.1",
+  "description": "var curry = require('curry.js');",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ovaldi/curry.js.git"
+  },
+  "keywords": [
+    "curry",
+    "javascript",
+    "node"
+  ],
+  "author": "suansha <232280074@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ovaldi/curry.js/issues"
+  },
+  "homepage": "https://github.com/Ovaldi/curry.js#readme"
+}
