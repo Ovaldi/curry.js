@@ -1,15 +1,15 @@
 ### Example
 
 ```js
-	var curry = require('curry.js');
+var curry = require('curry.js');
 
-	var fn = curry(function (a, b){
-		console.log(a, b);
-	});
+var fn = curry(function (a, b){
+	console.log(a, b);
+});
 
-	fn('c');
+fn('c');
 
-	fn('x')('y');
-	
-	fn()('o')()('k');
+fn('x')('y');
+
+fn()('o')()('k');
 ```
