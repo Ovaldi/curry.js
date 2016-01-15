@@ -10,7 +10,7 @@ module.exports = curry;
         module.exports = factory();
     }
     else{
-        global.declare = factory();
+        global.curry = factory();
     }
 })(function (){
 
@@ -36,7 +36,6 @@ module.exports = curry;
 			}
 
 			return wrapper.apply(null, arguments);
-		
 		};
 	};
 });
