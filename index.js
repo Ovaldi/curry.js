@@ -38,4 +38,4 @@ module.exports = curry;
 			return wrapper.apply(null, arguments);
 		};
 	};
-});
+}, this);
