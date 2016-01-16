@@ -1,8 +1,4 @@
-
-module.exports = curry;
-
-
-(function (factory, global){
+;(function (factory, global){
     if(typeof define === 'function' && define.amd){
         define(factory);
     }
