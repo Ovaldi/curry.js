@@ -16,14 +16,11 @@ for Browser
 
 ```js
 var curry = require('curry.js');
-
-var fn = curry(function (a, b){
-	console.log(a, b);
+var fn = curry((a, b) => {
+  console.log(a, b);
 });
 
 fn('c');
-
 fn('x')('y');
-
 fn()('o')()('k');
 ```
